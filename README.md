@@ -8,6 +8,11 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
+<!-- Coding Gif -->
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250"/>
+
+---
+
 - 💡 Passionate about technology, programming, and creative projects.  
 - 🎓 Currently studying full stack web and mobile development.  
 - 🌱 Always learning new technologies and tools like AI.  
@@ -15,10 +20,7 @@
 - 💬 Open to collaborations, volunteering, or just geeky conversations.  
 - 📬 Reach me anytime at [geekluislo@gmail.com](mailto:geekluislo@gmail.com), I’ll reply as soon as I can!
 
-<!-- Coding Gif -->
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250"/>
 
----
 
 ### 🛠 Tech Stack & Skills
 
