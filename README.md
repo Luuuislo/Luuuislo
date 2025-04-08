@@ -46,7 +46,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/luis-lopez-2b5075282" target="_blank">
+  <a href="https://linkedin.com/in/luuuislo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:geekluislo@gmail.com">
