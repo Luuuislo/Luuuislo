@@ -17,7 +17,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,git,bun,npm,ts,react,next,expo,mysql,postgresql,vite,reactnative)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,git,bun,npm,
+ts,react,next,expo,mysql,postgresql,vite,linux,ubuntu,,
+)](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
