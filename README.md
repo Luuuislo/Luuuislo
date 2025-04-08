@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://drive.google.com/file/d/1WgHxzhxMTTXE6qxhv6yCiQOINM4s6x4R/view" width="100% hight=50%"/>
+<img src="https://github.com/Luuuislo/Luuuislo/blob/main/banner-github.png?raw=true" width="100% hight=50%"/>
 
 <!-- Greeting -->
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>  
