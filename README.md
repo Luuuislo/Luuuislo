@@ -17,11 +17,17 @@
 
 ### 🛠 &nbsp;Tech Stack and skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,bun,npm,yarn)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,next,expo,vite,angular,vue)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind" />
+     <img src="https://skillicons.dev/icons?i=bootstrap,git,github,bun,npm,yarn" />
+     <img src="https://skillicons.dev/icons?i=react,next,vite,angular,vue" />
+     <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,docker" />
+     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,express" />
+  </a>
+</p>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
