@@ -41,9 +41,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/luis-lopez-2b5075282"><img src="https://img.shields.io/badge/-Luis%20Lopez%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:geekluislo@gmail.com"><img src="https://img.shields.io/badge/-geekluislo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/luuuislo"><img src="https://img.shields.io/badge/-@luuuislo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/luis-lopez-2b5075282"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:geekluislo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://instagram.com/luuuislo"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 -----
