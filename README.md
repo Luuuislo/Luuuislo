@@ -16,7 +16,7 @@
 - 📬 Reach me anytime at [geekluislo@gmail.com](mailto:geekluislo@gmail.com), I’ll reply as soon as I can!
 
 <!-- Coding Gif -->
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250"/>
 
 ---
 
